@@ -17,7 +17,7 @@ This Web-based project was created to handle a number of user traffic and IoT de
 | Code Editor | • Arduino IDE<br>• Visual Studio Code |
 | Application Support | Laragon |
 | Driver | CP210X USB Driver |
-| IoT Platform | Shiftr.io |
+| MQTT Broker | Shiftr.io |
 | Communications Protocol | • WebSocket Secure (WSS)<br>• Message Queuing Telemetry Transport (MQTT)<br>• Simple Mail Transfer Protocol (SMTP) |
 | IoT Architecture | 4 Layer |
 | Framework | AdminLTE v3.2.0 |
