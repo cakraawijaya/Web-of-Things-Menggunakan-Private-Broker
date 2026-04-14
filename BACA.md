@@ -17,7 +17,7 @@ Proyek berbasis Web ini dibuat untuk menangani sejumlah traffic pengguna dan dev
 | Editor Kode | • Arduino IDE<br>• Visual Studio Code |
 | Dukungan Aplikasi | Laragon |
 | Driver | CP210X USB Driver |
-| Platform IoT | Shiftr.io |
+| Broker MQTT | Shiftr.io |
 | Protokol Komunikasi | • WebSocket Secure (WSS)<br>• Message Queuing Telemetry Transport (MQTT)<br>• Simple Mail Transfer Protocol (SMTP) |
 | Arsitektur IoT | 4 Lapisan |
 | Kerangka Kerja | AdminLTE v3.2.0 |
